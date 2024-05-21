@@ -1,0 +1,30 @@
+################################################################################
+# NOTE                                                                         #
+#                                                                              #
+# This is a line-by-line long package descripton usually append after the      #
+# pitch or acting independently. You can write as long as you want as long as  #
+# it complies to the following rules:                                          #
+#       (1) Keep it text-form only; AND                                        #
+#       (2) Max 69 characters per line (DEB, RPM, and Citation requires it);   #
+#           AND                                                                #
+#       (3) Keep it ASCII for backward compatibilities purposes.               #
+#                                                                              #
+# You should write the long description of the project repository like an      #
+# abstract: introducing, specify the problem, actions, and ends with what to   #
+# to exect from exploring it.                                                  #
+################################################################################
+#                                                                  🠳 Max       #
+################################################################################
+Wanting to implement secure boot feature in your Linux OS but
+having that annoying kernel modules signing task? Portinvartija is
+here to solve the problem. Think of it as your OS' Concierge
+handling these sensitive tasks like the kernel modules signing and
+etc securely with thoughtout implementations. Leave the updates to
+Portinvartija for consistent performance.
+
+With its friendly setup, you'll be up and running in no time.
+Portinvartija effortlessly integrates into your existing linux OS
+especially with Debian to make sure everything is working as
+expected. Best of all, Portinvartija is built with inclusivity in
+mind. It makes sure all the necessary tools are in place and
+operate seamlessly.
